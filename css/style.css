@@ -105,3 +105,31 @@ nav {
   font-size: 15px;
 }
 /* banner information end  */
+/* about main start  */
+.about-main {
+  background-color: #d9d9d9;
+  padding: 0 10%;
+  width: 100%;
+  height: 100%;
+}
+/* about main end  */
+
+/* text section start  */
+.text-sec {
+  width: 100%;
+  height: 100%;
+  padding: 8rem 0;
+}
+/* text section end  */
+
+/* text paragraph  start  */
+.text-sec h1 {
+  font-family: "Poppins", sans-serif;
+  color: #1d1d1d;
+  font-size: 4rem;
+}
+#sign-text {
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+}
+/* text paragraph end  */
