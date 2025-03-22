@@ -133,3 +133,46 @@ nav {
   font-weight: 400;
 }
 /* text paragraph end  */
+
+/* about section start  */
+.about-sec {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-bottom: 10%;
+}
+/* about section end  */
+
+/* about imgage  start  */
+.about-img img {
+  width: 10rem;
+}
+/* about image  end  */
+
+/* about text  start  */
+.about-text {
+  width: 50%;
+}
+/* about text end  */
+
+/* about title start  */
+.about-text h3 {
+  font-family: "Poppins", sans-serif;
+  color: #1d1d1d;
+  font-size: 18px;
+  line-height: 5rem;
+}
+/* about title end  */
+
+/* about paragraph start  */
+.about-text p {
+  font-family: "Poppins", sans-serif;
+  color: #7d7d7d;
+  font-size: 16px;
+  font-weight: 300;
+  max-width: 70%;
+  line-height: 20px;
+}
+/* about paragraph end  */
